@@ -1,0 +1,14 @@
+{
+    "UserList": [
+        {
+            "username": "support1",
+            "password": "change_password1",
+            "nickname": "Support1"
+        },
+        {
+            "username": "support2",
+            "password": "change_password2",
+            "nickname": "Support2"
+        }
+    ]
+}
