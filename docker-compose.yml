@@ -1,7 +1,7 @@
 version: '3'
 services:
   servo:
-    image: vtxteam/servo:latest
+    image: vtxteam/servo2:latest
     links:
       - "mongodb"
     volumes:
