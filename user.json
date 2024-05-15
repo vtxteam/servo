@@ -2,7 +2,7 @@
     "Telegram": {
         "bot_token": "",
         "group_chat_id": -10020555555,
-        "username": "support1"  ##Telegram 的 username 需要是下面 UserList 中的 username 的其中一个
+        "username": "support1"
     },
     "UserList": [
         {
